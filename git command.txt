@@ -3,7 +3,7 @@ git clone repo url (https://github.com/rishabh05/TestRepo.git)
 git status 
 git add .
 git commit -m "message"
-git push origin master
+git push origin master   
 
 source tree/ git tortoise
 
