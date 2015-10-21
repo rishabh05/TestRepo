@@ -1,0 +1,4 @@
+git init
+git clone repo url (https://github.com/rishabh05/TestRepo.git)
+git status 
+git add .
